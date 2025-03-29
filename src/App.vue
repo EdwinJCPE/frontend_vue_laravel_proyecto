@@ -6,7 +6,7 @@
   <router-link to="/nosotros">Nosotros</router-link> |
   <router-link to="/servicios">Servicios</router-link> |
   <router-link to="/blog">Blog</router-link> |
-  <router-link to="/auth/login">Login</router-link>
+  <router-link to="/auth/login">Ingresar</router-link>
   <br>
   
   <router-view></router-view>
